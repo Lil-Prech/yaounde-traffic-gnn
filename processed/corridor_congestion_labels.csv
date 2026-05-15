@@ -1,0 +1,155 @@
+corridor,stretch,day,day_num,emission_kg_co2_daily,congestion_index,is_congested
+Soa,Soa Centre,Monday,0,0.0,,0
+Soa,Soa Centre,Tuesday,1,0.0,,0
+Soa,Soa Centre,Wednesday,2,0.0,,0
+Soa,Soa Centre,Thursday,3,0.0,,0
+Soa,Soa Centre,Friday,4,0.0,,0
+Soa,Soa Centre,Saturday,5,0.0,,0
+Soa,Soa Centre,Sunday,6,0.0,,0
+Soa,Soa Centre -Vallée vert,Monday,0,2022.1025,5.3147,1
+Soa,Soa Centre -Vallée vert,Tuesday,1,1886.9094,4.9594,1
+Soa,Soa Centre -Vallée vert,Wednesday,2,1886.9094,4.9594,1
+Soa,Soa Centre -Vallée vert,Thursday,3,1388.6263,3.6497,1
+Soa,Soa Centre -Vallée vert,Friday,4,834.3346,2.1929,1
+Soa,Soa Centre -Vallée vert,Saturday,5,380.472,1.0,0
+Soa,Soa Centre -Vallée vert,Sunday,6,10456.2206,27.4822,1
+Soa,Vallée vert -Petite marché,Monday,0,134.8068,5.3147,1
+Soa,Vallée vert -Petite marché,Tuesday,1,125.794,4.9594,1
+Soa,Vallée vert -Petite marché,Wednesday,2,125.794,4.9594,1
+Soa,Vallée vert -Petite marché,Thursday,3,92.5751,3.6497,1
+Soa,Vallée vert -Petite marché,Friday,4,55.6223,2.1929,1
+Soa,Vallée vert -Petite marché,Saturday,5,25.3648,1.0,0
+Soa,Vallée vert -Petite marché,Sunday,6,697.0814,27.4822,1
+Soa,Petite marché-Eleveur,Monday,0,269.6137,5.3147,1
+Soa,Petite marché-Eleveur,Tuesday,1,251.5879,4.9594,1
+Soa,Petite marché-Eleveur,Wednesday,2,251.5879,4.9594,1
+Soa,Petite marché-Eleveur,Thursday,3,185.1502,3.6497,1
+Soa,Petite marché-Eleveur,Friday,4,111.2446,2.1929,1
+Soa,Petite marché-Eleveur,Saturday,5,50.7296,1.0,0
+Soa,Petite marché-Eleveur,Sunday,6,1394.1627,27.4822,1
+Soa,Eleveur-Total Ngoussou,Monday,0,269.6137,5.3147,1
+Soa,Eleveur-Total Ngoussou,Tuesday,1,251.5879,4.9594,1
+Soa,Eleveur-Total Ngoussou,Wednesday,2,251.5879,4.9594,1
+Soa,Eleveur-Total Ngoussou,Thursday,3,185.1502,3.6497,1
+Soa,Eleveur-Total Ngoussou,Friday,4,111.2446,2.1929,1
+Soa,Eleveur-Total Ngoussou,Saturday,5,50.7296,1.0,0
+Soa,Eleveur-Total Ngoussou,Sunday,6,1394.1627,27.4822,1
+Soa,Total Ngoussou -Mobil Omnisport,Monday,0,269.6137,5.3147,1
+Soa,Total Ngoussou -Mobil Omnisport,Tuesday,1,251.5879,4.9594,1
+Soa,Total Ngoussou -Mobil Omnisport,Wednesday,2,251.5879,4.9594,1
+Soa,Total Ngoussou -Mobil Omnisport,Thursday,3,185.1502,3.6497,1
+Soa,Total Ngoussou -Mobil Omnisport,Friday,4,111.2446,2.1929,1
+Soa,Total Ngoussou -Mobil Omnisport,Saturday,5,50.7296,1.0,0
+Soa,Total Ngoussou -Mobil Omnisport,Sunday,6,1394.1627,27.4822,1
+Soa,Mobil Omnisport -Texaco Omnisport,Monday,0,269.6137,5.3147,1
+Soa,Mobil Omnisport -Texaco Omnisport,Tuesday,1,251.5879,4.9594,1
+Soa,Mobil Omnisport -Texaco Omnisport,Wednesday,2,251.5879,4.9594,1
+Soa,Mobil Omnisport -Texaco Omnisport,Thursday,3,185.1502,3.6497,1
+Soa,Mobil Omnisport -Texaco Omnisport,Friday,4,111.2446,2.1929,1
+Soa,Mobil Omnisport -Texaco Omnisport,Saturday,5,50.7296,1.0,0
+Soa,Mobil Omnisport -Texaco Omnisport,Sunday,6,1394.1627,27.4822,1
+Soa,Texaco Omnisport -Total Mfouda,Monday,0,539.2273,5.3147,1
+Soa,Texaco Omnisport -Total Mfouda,Tuesday,1,503.1758,4.9594,1
+Soa,Texaco Omnisport -Total Mfouda,Wednesday,2,503.1758,4.9594,1
+Soa,Texaco Omnisport -Total Mfouda,Thursday,3,370.3003,3.6497,1
+Soa,Texaco Omnisport -Total Mfouda,Friday,4,222.4892,2.1929,1
+Soa,Texaco Omnisport -Total Mfouda,Saturday,5,101.4592,1.0,0
+Soa,Texaco Omnisport -Total Mfouda,Sunday,6,2788.3255,27.4822,1
+Soa,Total Mfouda-Mobil Elig-Essono,Monday,0,134.8068,5.3147,1
+Soa,Total Mfouda-Mobil Elig-Essono,Tuesday,1,125.794,4.9594,1
+Soa,Total Mfouda-Mobil Elig-Essono,Wednesday,2,125.794,4.9594,1
+Soa,Total Mfouda-Mobil Elig-Essono,Thursday,3,92.5751,3.6497,1
+Soa,Total Mfouda-Mobil Elig-Essono,Friday,4,55.6223,2.1929,1
+Soa,Total Mfouda-Mobil Elig-Essono,Saturday,5,25.3648,1.0,0
+Soa,Total Mfouda-Mobil Elig-Essono,Sunday,6,697.0814,27.4822,1
+Soa,Mobil Elig-Essono-Camair,Monday,0,134.8068,5.3147,1
+Soa,Mobil Elig-Essono-Camair,Tuesday,1,125.794,4.9594,1
+Soa,Mobil Elig-Essono-Camair,Wednesday,2,125.794,4.9594,1
+Soa,Mobil Elig-Essono-Camair,Thursday,3,92.5751,3.6497,1
+Soa,Mobil Elig-Essono-Camair,Friday,4,55.6223,2.1929,1
+Soa,Mobil Elig-Essono-Camair,Saturday,5,25.3648,1.0,0
+Soa,Mobil Elig-Essono-Camair,Sunday,6,697.0814,27.4822,1
+Mfou,Marche Mfou,Monday,0,,,0
+Mfou,Marche Mfou,Tuesday,1,,,0
+Mfou,Marche Mfou,Wednesday,2,,,0
+Mfou,Marche Mfou,Thursday,3,,,0
+Mfou,Marche Mfou,Friday,4,,,0
+Mfou,Marche Mfou,Saturday,5,,,0
+Mfou,Marche Mfou,Sunday,6,,,0
+Mfou,Marche Mfou - Gare Mfou,Monday,0,54.1814,1.8509,1
+Mfou,Marche Mfou - Gare Mfou,Tuesday,1,53.8178,1.8385,1
+Mfou,Marche Mfou - Gare Mfou,Wednesday,2,52.3633,1.7888,1
+Mfou,Marche Mfou - Gare Mfou,Thursday,3,51.0905,1.7453,1
+Mfou,Marche Mfou - Gare Mfou,Friday,4,834.3346,28.5023,1
+Mfou,Marche Mfou - Gare Mfou,Saturday,5,29.2725,1.0,0
+Mfou,Marche Mfou - Gare Mfou,Sunday,6,1085.0601,37.0676,1
+Mfou,Gare Mfou - Gustave Eiffel,Monday,0,81.2721,1.8509,1
+Mfou,Gare Mfou - Gustave Eiffel,Tuesday,1,80.7267,1.8385,1
+Mfou,Gare Mfou - Gustave Eiffel,Wednesday,2,78.5449,1.7888,1
+Mfou,Gare Mfou - Gustave Eiffel,Thursday,3,76.6358,1.7453,1
+Mfou,Gare Mfou - Gustave Eiffel,Friday,4,55.6223,1.2668,0
+Mfou,Gare Mfou - Gustave Eiffel,Saturday,5,43.9088,1.0,0
+Mfou,Gare Mfou - Gustave Eiffel,Sunday,6,438.2106,9.98,1
+Mfou,Gustave Eiffel - Entrée EP Meyo,Monday,0,352.1793,3.1658,1
+Mfou,Gustave Eiffel - Entrée EP Meyo,Tuesday,1,349.8156,3.1446,1
+Mfou,Gustave Eiffel - Entrée EP Meyo,Wednesday,2,340.3612,3.0596,1
+Mfou,Gustave Eiffel - Entrée EP Meyo,Thursday,3,332.0885,2.9852,1
+Mfou,Gustave Eiffel - Entrée EP Meyo,Friday,4,111.2446,1.0,0
+Mfou,Gustave Eiffel - Entrée EP Meyo,Saturday,5,190.2713,1.7104,1
+Mfou,Gustave Eiffel - Entrée EP Meyo,Sunday,6,1721.9605,15.479,1
+Mfou,Entrée EP Meyo - Carrefour Nkongoa,Monday,0,162.5443,1.8509,1
+Mfou,Entrée EP Meyo - Carrefour Nkongoa,Tuesday,1,161.4534,1.8385,1
+Mfou,Entrée EP Meyo - Carrefour Nkongoa,Wednesday,2,157.0898,1.7888,1
+Mfou,Entrée EP Meyo - Carrefour Nkongoa,Thursday,3,153.2716,1.7453,1
+Mfou,Entrée EP Meyo - Carrefour Nkongoa,Friday,4,111.2446,1.2668,0
+Mfou,Entrée EP Meyo - Carrefour Nkongoa,Saturday,5,87.8175,1.0,0
+Mfou,Entrée EP Meyo - Carrefour Nkongoa,Sunday,6,867.4212,9.8775,1
+Mfou,Carrefour Nkongoa - Carrefour Monti,Monday,0,189.635,1.8509,1
+Mfou,Carrefour Nkongoa - Carrefour Monti,Tuesday,1,188.3623,1.8385,1
+Mfou,Carrefour Nkongoa - Carrefour Monti,Wednesday,2,183.2714,1.7888,1
+Mfou,Carrefour Nkongoa - Carrefour Monti,Thursday,3,178.8169,1.7453,1
+Mfou,Carrefour Nkongoa - Carrefour Monti,Friday,4,111.2446,1.0858,0
+Mfou,Carrefour Nkongoa - Carrefour Monti,Saturday,5,102.4538,1.0,0
+Mfou,Carrefour Nkongoa - Carrefour Monti,Sunday,6,993.7839,9.6998,1
+Mfou,Carrefour Monti - Hawai Escallier,Monday,0,162.5443,1.8509,1
+Mfou,Carrefour Monti - Hawai Escallier,Tuesday,1,161.4534,1.8385,1
+Mfou,Carrefour Monti - Hawai Escallier,Wednesday,2,157.0898,1.7888,1
+Mfou,Carrefour Monti - Hawai Escallier,Thursday,3,153.2716,1.7453,1
+Mfou,Carrefour Monti - Hawai Escallier,Friday,4,111.2446,1.2668,0
+Mfou,Carrefour Monti - Hawai Escallier,Saturday,5,87.8175,1.0,0
+Mfou,Carrefour Monti - Hawai Escallier,Sunday,6,882.4212,10.0484,1
+Mbankomo,Green oil,Monday,0,0.0,,0
+Mbankomo,Green oil,Tuesday,1,0.0,,0
+Mbankomo,Green oil,Wednesday,2,0.0,,0
+Mbankomo,Green oil,Thursday,3,0.0,,0
+Mbankomo,Green oil,Friday,4,0.0,,0
+Mbankomo,Green oil,Saturday,5,0.0,,0
+Mbankomo,Green oil,Sunday,6,0.0,,0
+Mbankomo,Green oil - Entrée Ngoumou,Monday,0,103.763,2.031,1
+Mbankomo,Green oil - Entrée Ngoumou,Tuesday,1,97.7477,1.9132,1
+Mbankomo,Green oil - Entrée Ngoumou,Wednesday,2,93.2363,1.8249,1
+Mbankomo,Green oil - Entrée Ngoumou,Thursday,3,51.0905,1.0,0
+Mbankomo,Green oil - Entrée Ngoumou,Friday,4,71.1804,1.3932,1
+Mbankomo,Green oil - Entrée Ngoumou,Saturday,5,57.1448,1.1185,0
+Mbankomo,Green oil - Entrée Ngoumou,Sunday,6,578.9284,11.3314,1
+Mbankomo,Entrée Ngoumou - Carrefour Nomayos,Monday,0,86.4692,1.8158,1
+Mbankomo,Entrée Ngoumou - Carrefour Nomayos,Tuesday,1,81.4565,1.7105,1
+Mbankomo,Entrée Ngoumou - Carrefour Nomayos,Wednesday,2,77.6969,1.6316,1
+Mbankomo,Entrée Ngoumou - Carrefour Nomayos,Thursday,3,76.6358,1.6093,1
+Mbankomo,Entrée Ngoumou - Carrefour Nomayos,Friday,4,59.317,1.2456,0
+Mbankomo,Entrée Ngoumou - Carrefour Nomayos,Saturday,5,47.6207,1.0,0
+Mbankomo,Entrée Ngoumou - Carrefour Nomayos,Sunday,6,516.5007,10.8461,1
+Mbankomo,Carrefour Nomayos - Entrée CIMENCAM,Monday,0,69.1753,1.8158,1
+Mbankomo,Carrefour Nomayos - Entrée CIMENCAM,Tuesday,1,65.1652,1.7105,1
+Mbankomo,Carrefour Nomayos - Entrée CIMENCAM,Wednesday,2,62.1575,1.6316,1
+Mbankomo,Carrefour Nomayos - Entrée CIMENCAM,Thursday,3,332.0885,8.717,1
+Mbankomo,Carrefour Nomayos - Entrée CIMENCAM,Friday,4,47.4536,1.2456,0
+Mbankomo,Carrefour Nomayos - Entrée CIMENCAM,Saturday,5,38.0966,1.0,0
+Mbankomo,Carrefour Nomayos - Entrée CIMENCAM,Sunday,6,683.9804,17.9538,1
+Mbankomo,Entrée CIMENCAM - Barrier (Tradex Ahala),Monday,0,155.6445,1.8158,1
+Mbankomo,Entrée CIMENCAM - Barrier (Tradex Ahala),Tuesday,1,146.6216,1.7105,1
+Mbankomo,Entrée CIMENCAM - Barrier (Tradex Ahala),Wednesday,2,139.8545,1.6316,1
+Mbankomo,Entrée CIMENCAM - Barrier (Tradex Ahala),Thursday,3,153.2716,1.7881,1
+Mbankomo,Entrée CIMENCAM - Barrier (Tradex Ahala),Friday,4,106.7706,1.2456,0
+Mbankomo,Entrée CIMENCAM - Barrier (Tradex Ahala),Saturday,5,85.7173,1.0,0
+Mbankomo,Entrée CIMENCAM - Barrier (Tradex Ahala),Sunday,6,945.0284,11.0249,1

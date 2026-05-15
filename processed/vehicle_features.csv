@@ -1,0 +1,6 @@
+brand,model,engine_cc,horsepower_cv,energy_source,engine_type,fuel_efficiency_l100km,emission_factor_kgco2_km,euro_tier,vehicle_age_approx
+Toyota,HIACE 21JK12,2494,10,Gas,Diesel,10.7,0.271743,Diesel large: Euro 2,
+Mercedes,MB100D 631334,2399,8,Gas,Diesel,9.9,0.262608,Diesel large: Euro 1,
+Toyota,64ABK,1587,9,Petrol,Diesel,,0.170121,Petrol small: Euro 2,
+Mercedes,240D123,3690,15,Gas,Diesel,,,,
+Toyota,53ABNO,1587,9,Petrol,Diesel,10.8,0.174866,Petrol small: Euro 3,
